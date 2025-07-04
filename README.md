@@ -48,8 +48,8 @@
 <h3 align="center">🌐 Languages</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=english&logoColor=white" alt="English C2"/>
   <img src="https://img.shields.io/badge/German-Native-yellow?style=for-the-badge&logo=germany&logoColor=black" alt="German Native"/>
+  <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=english&logoColor=white" alt="English C2"/>
   <img src="https://img.shields.io/badge/Japanese-Beginner-lightgrey?style=for-the-badge&logo=japan&logoColor=white" alt="Japanese Beginner"/>
 </div>
 
