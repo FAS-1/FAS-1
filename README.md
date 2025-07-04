@@ -5,14 +5,14 @@
 
 - 🌱 I’m currently learning **LSTM modeling, advanced matplotlib and continuously improving my skills in Python, AWS, Splunk...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marvin-eder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvin-eder" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="left">🌐 Languages</h3>
+<h3 align="center">🌐 Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=english&logoColor=white" alt="English C2"/>
@@ -42,12 +42,26 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FAS-1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=FAS-1&theme=radical&hide_border=false" /><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FAS-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=FAS-1&icon=0&color=0" alt="Profile Visit Counter" />
+  </a>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
