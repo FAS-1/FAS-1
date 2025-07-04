@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -40,8 +39,9 @@
 <p>
   <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=english&logoColor=white" alt="English C2"/>
   <img src="https://img.shields.io/badge/German-Native-yellow?style=for-the-badge&logo=germany&logoColor=black" alt="German Native"/>
-  <img src="https://img.shields.io/badge/Japanese-N3-lightgrey?style=for-the-badge&logo=japan&logoColor=white" alt="Japanese N3"/>
 </p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FAS-1&theme=radical&hide_border=false)<br/>
