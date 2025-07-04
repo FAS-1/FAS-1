@@ -24,22 +24,22 @@
   </a>
 </p>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+</div>
 
 ---
 
 <h3 align="center">🌐 Languages</h3>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge&logo=english&logoColor=white" alt="English C2"/>
   <img src="https://img.shields.io/badge/German-Native-yellow?style=for-the-badge&logo=germany&logoColor=black" alt="German Native"/>
-</p>
+</div>
 
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -53,15 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAS-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
-
----
-
-<div align="center">
-
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=FAS-1&icon=0&color=0" alt="Profile Visit Counter" />
-  </a>
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
